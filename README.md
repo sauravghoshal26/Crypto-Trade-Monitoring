@@ -54,10 +54,3 @@ Before you begin, ensure you have met the following requirements:
 •**Python 3.x** installed.
 
 •AWS CLI configured on your machine.
-
-
-
-	1.	Set up Kafka using Docker by running the following commands:
-     docker-compose up -d
-
-   
